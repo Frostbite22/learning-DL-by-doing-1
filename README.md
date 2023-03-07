@@ -1,5 +1,6 @@
 # LEARNING DEEP LEARNING BY DOING - Project 1 
-This is a self assigned deep learning project in which I make in practice  
+This is a self assigned deep learning project in which I make in practice.<br>
+The dataset that I will be using is the [Sign Language MNIST](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)  
 
 ## L2SVM as loss function 
 According to this [paper :Deep Learning using Linear Support Vector Machines
