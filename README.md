@@ -16,4 +16,4 @@ Helps us avoid overfitting by changing the target data each data at validation
 | Model      | Loss Function | optimizer     | Train Accuracy | Test Accuracy  |
 |   :----:    |    :----:   |   :----:  |  :----:   |   :----:    |
 | ResNet18    | MultiClassHingeLoss       | SGD with Momentum   | 99%+ | 99%+ |
-
+| SimpleConv | MultiClassHingeLoss  | Adam | 99% | 97% | 
