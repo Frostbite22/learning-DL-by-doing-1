@@ -24,4 +24,4 @@ CrossEntropyLoss and MultiClassHingeLoss yielded almost similar results :
 | ResNet18    | MultiClassHingeLoss       | SGD with Momentum   | 99%+ | 99%+ |
 | ResNet18    | CrossEntropyLoss       | SGD with Momentum   | 99%+ | 99%+ |
 | SimpleConv | MultiClassHingeLoss  | Adam | 99% | 97% | 
-| SimpleConv | CrossEntropyLoss  | Adam | 99% | 97% | 
+| SimpleConv | CrossEntropyLoss  | Adam | 99% | 96% | 
